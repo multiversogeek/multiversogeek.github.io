@@ -50,9 +50,11 @@ navigationLinks:
  - {permalink: "/logistics/", text: "Hospedagem"}
 #  - {permalink: "/hackathon/", text: "Hackathon"}
 bottomNavigationLinks:
- - {link: "https://bit.ly/dfua-c4p", text: "Comprar ingressos"}
+#  - {link: "https://bit.ly/dfua-c4p", text: "Comprar ingressos"}
+  - {permalink: "/#tickets", text: "Comprar ingressos"}
 rightNavigationButtons:
- - {link: "https://bit.ly/dfua-c4p", text: "Comprar ingressos"}
+#  - {link: "https://bit.ly/dfua-c4p", text: "Comprar ingressos"}
+  - {permalink: "/#tickets", text: "Comprar ingressos"}
 
 # Hero Block
 heroImage: "hero.jpg"
@@ -120,8 +122,8 @@ twitterHashTag: "devfest"
 twitterFeed: "http://lviv.gdg.org.ua/tweetledee/favoritesjson.php?c=10&cache_interval=8000"
 
 # Partners Block
-organizersTitle: "Organizers"
-partnersTitle: "Partners"
+organizersTitle: "Organizadores"
+partnersTitle: "Parceiros"
 partnersC4sponsorsButton: "Become a sponsor"
 
 # Subscribe Block
@@ -129,6 +131,27 @@ subscribeImage: "subscribe.jpg"
 subscribeTitle: "Subscribe for updates"
 subscribeAction: "https://gdg.us5.list-manage1.com/subscribe/post?u=9fc8aa205b0521b5f05fc8e1e&amp;id=ae0fb459fc"
 subscribeInfo: "Registration will be open around end of August. Number of tickets are limited. Stay tuned!"
+
+salePointsTitle: "Pontos de Venda"
+salePoints:
+ -
+   name: "Terra X Comics"
+   additionalInfo: "Rua Marechal Floriano Peixoto 730.<br/>Contato: (55) 3029.0766"
+ -
+   name: "Sebo Camobi"
+   additionalInfo: "RST 287, nº 7100, ao lado do posto Ipiranga da Faixa Nova de Camobi.<br/>Contato: (55) 3025.6710 e (55) 99979.0110 (WhatsApp)"
+ -
+   name: "Domínio Geek"
+   additionalInfo: "Avenida Nossa Senhora Medianeira, 1321, Loja 26, Trevicenter.<br/>Contato: (55) 99687.8084"
+ -
+   name: "Lends Club Tabuleiria"
+   additionalInfo: "Rua Duque de Caxias, 1074.<br/>Contato: (55) 3307.6248"
+ -
+   name: "Empório Urbano"
+   additionalInfo: "Mercado Público de Santa Maria, Estação da Gare.<br/>Contato: (55) 98469.2452 e (41) 98470.1033 (Whatsapp)"
+ -
+   name: "Pa-Kua"
+   additionalInfo: "Rua Marechal Floriano Peixoto 904, Segundo Andar, Sala 4.<br/>Contato: (55) 3095.0135"
 
 # Tickets Block
 ticketsTitle: "Ingressos"
@@ -140,8 +163,8 @@ ticketsOffers:
   priceCurrency: ""
   ticketsNumber: "100"
   ribbon: "-25%"
-  buyButtonLink: "http://dfua.ticketforevent.com/"
-  buyButtonText: "Buy Now"
+  buyButtonLink: {permalink: "/#salepoints"}
+  buyButtonText: "Pontos de venda"
   ticketContentList: ["Entrada e eventos no auditório", "Válido para um dia"]
   validFrom: "2014-10-01T00:00"
   validThrough: "2014-10-23T23:59"
@@ -153,8 +176,8 @@ ticketsOffers:
   ticketsNumber: "150"
   ribbon: "-50%"
   featured: true
-  buyButtonLink: "http://dfua.ticketforevent.com/"
-  buyButtonText: "Buy Now"
+  buyButtonLink: {permalink: "/#salepoints"}
+  buyButtonText: "Pontos de venda"
   ticketContentList: ["Entrada e eventos no auditório", "Válidos para os 2 dias do evento", "Metade do valor "]
   validFrom: "2014-08-25T10:00"
   validThrough: "2014-09-30T23:59"
@@ -216,8 +239,8 @@ findWayWalking: "WALKING"
 findWayBicycling: "BICYCLING"
 findWayTransit: "TRANSIT"
 findWayFindFlight: "Find Flight"
-logisticsMapCenterCoordinates: "49.056728, 3.117289"
-logisticsMapMobileCenterCoordinates: "48.335365, 23.711648"
+logisticsMapCenterCoordinates: "-29.6885039,-53.8075312"
+logisticsMapMobileCenterCoordinates: "-29.6885039,-53.8075312"
 logisticsMapAutoDirections: false
 
 # Logistics Direction Details Block
