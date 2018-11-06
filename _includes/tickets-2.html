@@ -29,8 +29,12 @@
 								<a href="{{ ticketsOffer.buyButtonLink }}" class="waves-effect waves-button" target="_blank">{{ ticketsOffer.buyButtonText }}</a>
 							</span>
 							{% else %}
-		           			{% assign ticketValidFrom = ticketsOffer.validFrom | split: "T" %}
-							<p class="ticket-fallback">Ticket sales will begin on {{ ticketValidFrom[0] | date: "%-d %B %Y"}} {{ ticketValidFrom[1] }}</p>
+							{% if ticketsOffer.venueOnly == true %}
+								<p class="ticket-fallback">Vendas somente no evento</p>
+							{% else %}
+								{% assign ticketValidFrom = ticketsOffer.validFrom | split: "T" %}
+								<p class="ticket-fallback">As vendas começarão em {{ ticketValidFrom[0] | date: "%-d %B %Y"}} {{ ticketValidFrom[1] }}</p>
+							{% endif %}
 							{% endif %}
 						</div>
 					</div>

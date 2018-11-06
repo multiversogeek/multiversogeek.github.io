@@ -1,6 +1,6 @@
 - 
-  date: "2014-10-24"
-  dateReadable: "October 24"
+  date: "2018-11-10"
+  dateReadable: "10 de Novembro (Sábado)"
   tracks: 
     - {title: "Android", color: "#90be4e"}
     - {title: "Web & Cloud", color: "#03a9f4"}
@@ -22,8 +22,8 @@
     	sessionIds: [307]
     }
 - 
-  date: "2014-10-25"
-  dateReadable: "October 25"
+  date: "2018-11-11"
+  dateReadable: "11 de Novembro (Domingo)"
   tracks: 
     - {title: "Android", color: "#90be4e"}
     - {title: "Web & Cloud", color: "#03a9f4"}
