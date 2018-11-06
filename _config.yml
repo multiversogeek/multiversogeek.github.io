@@ -58,10 +58,10 @@ rightNavigationButtons:
 
 # Hero Block
 heroImage: "hero.jpg"
-heroTitle: "Multiverso Geek 1ª Edição"
+heroTitle: "Multiverso <typeout> 1ª Edição"
 eventDate: "10 e 11 de Novembro de 2018"
-# typeoutTextValues: '"", "Season", "Ukraine", "Germany", "USA"'
-# typeoutFallback: "Season"
+typeoutTextValues: '"Geek", "", "Nerd", "Séries", "Anime", "Santa Maria"'
+typeoutFallback: "Geek"
 heroButtons:
 #  - {link: "https://bit.ly/dfua-c4p", text: "Become a speaker"}
  - {permalink: "/#tickets", text: "Comprar ingressos"}
