@@ -46,6 +46,8 @@ navigationLinks:
 #  - {permalink: "/blog/", text: "Notícias"}
  - {permalink: "/programacao/", text: "Programação"}
  - {permalink: "/atracoes/", text: "Atrações"}
+ - {link: "https://www.facebook.com/multiversogeeksm", text: "Página do Facebook"}
+ - {link: "https://www.facebook.com/events/1506676309434209/", text: "Evento do Facebook"}
 #  - {permalink: "/team/", text: "Equipe"}
 #  - {permalink: "/logistics/", text: "Hospedagem"}
 #  - {permalink: "/hackathon/", text: "Hackathon"}
