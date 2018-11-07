@@ -115,11 +115,18 @@ venueSmallImage3: "venue_3.jpg"
 venueTitle: "Kinopalace Cinema"
 venueFeatures: ["3 huge cinema screens", "Doulby Digital Surround EX audio system", "Located directly in the city center"]
 
+venueGalleryTitle: "Mapa do evento"
+venueGalleryImages:
+  - { big: "hall.jpg", thumb: "hall-thumb.jpg", width: 1024, height: 1024 }
+  - { big: "primeiro-andar.jpg", thumb: "primeiro-andar-thumb.jpg", width: 1024, height: 1024 }
+  - { big: "segundo-andar.jpg", thumb: "segundo-andar-thumb.jpg", width: 1024, height: 1024 }
+  - { big: "terceiro-andar.jpg", thumb: "terceiro-andar-thumb.jpg", width: 1024, height: 1024 }
+
 # Tweets Feed Block
-tweetsFeedImage: "twitter-feed.jpg"
-tweetsFeedTitle: "What's Up?"
-twitterHashTag: "devfest"
-twitterFeed: "http://lviv.gdg.org.ua/tweetledee/favoritesjson.php?c=10&cache_interval=8000"
+# tweetsFeedImage: "twitter-feed.jpg"
+# tweetsFeedTitle: "What's Up?"
+# twitterHashTag: "devfest"
+# twitterFeed: "http://lviv.gdg.org.ua/tweetledee/favoritesjson.php?c=10&cache_interval=8000"
 
 # Partners Block
 organizersTitle: "Organizadores"

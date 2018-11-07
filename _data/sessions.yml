@@ -11,17 +11,16 @@
   service: true
 -
   id: 603
-  title: "Pa-Kua"
-  place: "Auditório"
+  title: "Pa-Kua - Apresentação e Oficina"
   description: "Apresentação e Oficina"
-  service: true
+  subtype: workshop
+  speakers: [19]
 -
   id: 604
   title: "Pa-Kua"
-  place: "Auditório"
   description: "Oficina"
   subtype: workshop
-  service: true
+  speakers: [19]
 -
   id: 605
   title: "Resultado do concurso de Cosplay"

@@ -4,119 +4,202 @@
   surname: "Borges"
   company: "Porto Alegre"
   title: "Artista"
-  bio: "Dawid is true technology enthusiast, who loves to work in areas where humans and machines meet to create amazing new products and services. He is experienced program manager with strong technical background, who is able to establish priorities for complex projects and execute across multiple organizations, according to long-term objectives. Dawid has worked in Poland, USA, Germany, Belgium and The Netherlands and truly values diversity of international working environment. His most visible characteristics are individualization (when dealing directly with people), ideation&intellection (inexhaustible source of new concepts) and strong communication (experienced trainer, community manager). He is also an activator constantly impatient for action."
-  thumbnailUrl: DawidOstrowski.jpg
+  bio: '<p>Gustavo Borges é conhecido pelos amantes da nona arte por seus trabalhos em "A Entediante Vida de Morte Crens" de 2013, "Edgar: Em Busca da Força dos Ventos" de 2014, este lhe valeu o Troféu HQMIX de melhor publicação independente em 2015, "Pétalas" de 2015, "Escolhas" de 2017 e "Até o Fim" de 2017.</p><p>Neste ano de 2018 lançará seu primeiro quadrinho no selo Graphic MSP, chamado "Cebolinha: Recuperação".</p>'
+  thumbnailUrl: GustavoBorges.jpg
   rockstar: true
   social: 
-    - {name: "facebook", link: "https://plus.google.com/+DawidOstrowski/"}
-    - {name: "instagram", link: "https://plus.google.com/+DawidOstrowski/"}
+    - {name: "instagram", link: "https://www.instagram.com/gustavoborgesart"}
 - 
   id: 4
   name: "Matias"
   surname: "Streb"
-  company: "Cachoeira do Sul"
+  company: "Porto Alegre"
   title: "Artista"
-  bio: '<p>Developer. Nominated to apply for the <a href="http://goo.gl/V7qHc">Google Developer Expert Program</a>. Finalist of <a href="http://goo.gl/HO2kLf">Google Apps Developer Challenge 2012</a>. Author of open source <a href="http://goo.gl/Sp5Pel">libraries</a> 1000+ stars. Writer. When Dmytro has free time he is writing <a href="http://goo.gl/AoOVru">technical articles</a>. Speaker. Always trying to share his knowledge &amp; experience on different <a href="http://goo.gl/PNolZY">events</a>. Big fan of android, flat design, stackoverflow, git, Intellij IDEA. Eclipse IDE hater.</p>'
-  thumbnailUrl: DmytroDanylyk.jpg
+  bio: '<p>Matias Streb é ilustrador, quadrinista e professor de aquarela no Dínamo Studio, em Porto Alegre.</p><p>Realizou trabalhos para o mercado internacional produzindo material exclusivo de sketchcards (cartões colecionáveis oficiais) para as editoras americanas Marvel Comics, DC Comics, Valliant Comics, além disso, produziu sketchcards para as séries de TV "The Walking Dead", "Game of Thrones", e para os filmes "O Hobbit: A Batalha dos Cinco Exércitos" e "Thor: Ragnarok".</p><p>Lançou a revista em quadrinhos Alexandria, que foi premiada como melhor revista independente do evento Anima Heroes 2008, de Porto Alegre. Participou de varias publicações nacionais, destaque para "A Entediante Vida de Morte Crens", "Pétalas" e "Edgar - Em Busca da Energia dos Ventos".</p>'
+  thumbnailUrl: MatiasStreb.jpg
   rockstar: true
   social: 
-    - {name: "google-plus", link: "https://plus.google.com/+DmytroDanylyk"}
-    - {name: "twitter", link: "https://twitter.com/dmytrodanylyk"}
-    - {name: "github", link: "https://github.com/dmytrodanylyk"}
+    - {name: "instagram", link: "https://www.instagram.com/matiasstrebart"}
 - 
   id: 5
   name: "Fred"
   surname: "Rubim"
   company: "Santa Maria"
-  title: "Escritor"
-  bio: "Mateusz is an Android GDE and GDG organizer. Works as Android Developer for Base CRM where he uses his android-abracadabras to make enterprise software users more productive."
-  thumbnailUrl: MateuszHerych.jpg
+  title: "Artista"
+  bio: '<p>Fred Rubim é formado em Desenho Industrial pela UFSM e atua há mais de 10 anos como ilustrador, animador e quadrinista. Estreou nos quadrinhos em 2016 com a obra "O Coração do Cão Negro", ao lado de Cesar Alcázar, obra finalista do prêmio HQ Mix em 2 categorias. A série ganhou um segundo volume em 2017 intitulado "A Canção do Cão Negro", ambos publicados pela AVEC.</p><p>Já em “Le Chevalier - Arquivos Secretos” (de 2016), com o roteiro de A.Z. Cordenonsi, Fred explora o universo steampunk de uma Paris alternativa. A série do cavaleiro francês ganha agora uma nova aventura chamada “Le Chevalier nas Montanhas da Loucura”, que estará sendo lançada no evento. Fred também é o responsável pela arte da webcomic de “A Todo Vapor!”, baseada na obra de Enéias Tavares, e publicada semanalmente no portal Cosmo Nerd.</p>'
+  thumbnailUrl: FredRubim.jpg
   rockstar: true
 #   ribbon: 
 #     - {abbr: "GDE", title: "Google Developer Expert", url: "https://developers.google.com/experts/"}
 #     - {abbr: "GDG", title: "Google Developer Group", url: "https://developers.google.com/groups/chapter/107562802227561437057/"}
-#   social: 
-#     - {name: "google-plus", link: "https://plus.google.com/+MateuszHerych"}
-#     - {name: "twitter", link: "https://twitter.com/mherych"}
+  social: 
+    - {name: "instagram", link: "https://www.instagram.com/fredrubim_art"}
+    - {name: "twitter", link: "https://twitter.com/fredrubim_art"}
+    - {name: "site", link: "http://fredrubim.com/"}
 - 
   id: 6
   name: "André"
   surname: "Cordenonsi"
   company: "Santa Maria"
   title: "Escritor"
-  bio: "Roman started his way in Android 5 years ago and fall in love with this platform. Currently he is a head of Android unit in Stanfy LLC and a co-organizer of Kyiv Google Developers Group focusing on Android development. Roman is responsible for building a strong team of Android developers inside Stanfy as well as for organizing Android professionals community in Kyiv."
-  thumbnailUrl: RomanMazur.jpg
+  bio: '<p>Andre Zanki Cordenonsi é professor universitário, doutor pela UFRGS e pesquisador há quase vinte anos. É autor de ficção, com mais de duas dezenas de contos já publicados, além de romances e quadrinhos.</p><p>Seu trabalho mais recente inclui o lançamento da HQ "Le Chevalier nas Montanhas da Loucura", com arte de Fred Rubim, uma história com influência de H.P. Lovecraft, Edgar Alan Poe e Júlio Verne.</p><p>Outros trabalhos incluem a HQ "Le Chevalier - Arquivos Secretos", também em parceria com Fred Rubim; o romance "Le Chevalier e a Exposição Universal", uma aventura steampunk em uma França alternativa; "Guanabara Real – A Alcova da Morte", um romance que mistura terror-ficção científica-policial escrito em parceria com Enéias Tavares e Nikelen Witter, vencedor dos prêmios Le Blanc/2018 e da Associação Gaúcha de Escritores/2018; e "Sherlock e os Aventureiros – O Mistério dos Planos Roubados", uma aventura juvenil que apresenta a juventude do detetive mais famoso de todos os tempos.</p>'
+  thumbnailUrl: AndreCordenonsi.jpg
   rockstar: true
 #   ribbon:
 #     - {abbr: "GDG", title: "Google Developer Group", url: "https://developers.google.com/groups/chapter/110301321530950732281/"}
-#   social: 
-#     - {name: "google-plus", link: "https://plus.google.com/+RomanMazur/"}
-#     - {name: "twitter", link: "http://twitter.com/roman_mazur"}
+  social: 
+    - {name: "instagram", link: "https://www.instagram.com/azcordenonsi"}
+    - {name: "twitter", link: "https://twitter.com/azcordenonsi"}
 - 
   id: 7
   name: "Enéias"
   surname: "Tavares"
   company: "Santa Maria"
   title: "Escritor"
-  bio: "Valentyn focuses on Polymer and Web Components. In previous roles he’s helped craft design systems for massive enterprise companies, user interfaces for console titles, and even built the occasional enchanted princess game. These days his mission is to fight for a better web and to help developers build great experiences."
-  thumbnailUrl: ValentynShybanov.jpg
+  bio: '<p>Enéias Tavares é professor de Literatura Clássica na UFSM, onde orienta trabalhos de pós-graduação sobre literatura fantástica e ministra a disciplina Escrita de Ficção.</p><p>Em 2014, foi o vencedor do concurso Fantasy!, da editora LeYa, entre mais de 1400 participantes. Pela LeYa publicou "A Lição de Anatomia do Temível Dr. Louison", primeiro volume de Brasiliana Steampunk. Pela editora Avec publicou "Guanabara Real - A Alcova da Morte". O primeiro foi finalista do Prêmio Argos de Melhor Romance de 2014 e o segundo ganhou o Prêmio Le Blanc de Melhor Romance Fantástico de 2017 e o Prêmio Ages de Melhor Romance Juvenil.</p><p>Junto de Bruno Matangrano é também o responsável pela exposição "Fantástico Brasileiro", exposição que compreende uma história da literatura fantástica brasileira desde o século XIX até a contemporaneidade e que se tornou livro em 2018 pela editora Arte & Letra. Brasiliana Steampunk enquanto série transmídia já ganhou card game, audiolivro, suplemento escolar e estão em produção uma história em quadrinhos e uma série audiovisual. Além deste trabalho, Tavares pesquisa storytelling transmídia e ministra workshops sobre escrita criativa e gerenciamento de projetos culturais, além de assinar a coluna sobre escrita criativa Bestiário Criativo no portal CosmoNerd.</p>'
+  thumbnailUrl: EneiasTavares.jpg
   rockstar: true
 #   ribbon:
 #     - {abbr: "GDG", title: "Google Developer Group", url: "https://developers.google.com/groups/chapter/110301321530950732281/"}
-#   social: 
-#     - {name: "google-plus", link: "https://google.com/+ValentynShybanov"}
-#     - {name: "site", link: "http://olostan.name/"}
+  social: 
+    - {name: "twitter", link: "https://twitter.com/eneias_tavares"}
+    - {name: "instagram", link: "https://www.instagram.com/eneias_tavares"}
 - 
   id: 8
   name: "Grupo"
   surname: "Level Up"
   company: "Santa Maria"
   title: "Grupo de Dança"
-  bio: "Valentyn focuses on Polymer and Web Components. In previous roles he’s helped craft design systems for massive enterprise companies, user interfaces for console titles, and even built the occasional enchanted princess game. These days his mission is to fight for a better web and to help developers build great experiences."
-  thumbnailUrl: ValentynShybanov.jpg
-  rockstar: true
+  bio: 'O grupo de danças urbanas Level Up, existe desde 2015, foi criado pelo diretor, coreógrafo e bailarino Lucas Lima, e vêm participando de apresentações e conquistando premiações em festivais por todo o estado. A Level Up estará no evento com apresentações especiais, aguardem!'
+  thumbnailUrl: LevelUp.jpg
+  rockstar: false
+  social: 
+    - {name: "facebook", link: "https://www.facebook.com/levelupcia"}
+    - {name: "instagram", link: "https://www.instagram.com/levelupcia/"}
+    - {name: "youtube", link: "https://www.youtube.com/channel/UCN_fm-w1wiDEVyZw8ueK0yA"}
 - 
   id: 9
   name: "Banda"
   surname: "Triturador"
   company: "Santa Maria"
   title: "Banda de Rock"
-  bio: "Valentyn focuses on Polymer and Web Components. In previous roles he’s helped craft design systems for massive enterprise companies, user interfaces for console titles, and even built the occasional enchanted princess game. These days his mission is to fight for a better web and to help developers build great experiences."
-  thumbnailUrl: ValentynShybanov.jpg
+  bio: '<p>Triturador é uma banda de crossover que começou em 2015, e transita pelos mais variados gêneros do rock em destaque o trash e hardcore. A banda tem como influência desde Municipal Waste, Toxic Holocaust, até Bad Religion e NOFX. Explorando diversas temáticas desde seu primeiro trabalho, com destaque para a crítica do cenário político atual.</p><p>Seu primeiro CD, intitulado de Descriminado, foi lançado em 31 de Março de 2017. A banda lançará seu segundo CD chamado Império de Ilusões no Multiverso Geek.</p>'
+  thumbnailUrl: Triturador.jpg
   rockstar: true
+  social: 
+    - {name: "facebook", link: "https://www.facebook.com/trituradorbanda/"}
 - 
   id: 10
   name: "Banda"
   surname: "Setfly"
   company: "Santa Maria"
   title: "Banda de J-Rock e Animesongs"
-  bio: "Valentyn focuses on Polymer and Web Components. In previous roles he’s helped craft design systems for massive enterprise companies, user interfaces for console titles, and even built the occasional enchanted princess game. These days his mission is to fight for a better web and to help developers build great experiences."
-  thumbnailUrl: ValentynShybanov.jpg
+  bio: 'Formada em Setembro de 2014, a Setfly nasceu da união de amigos músicos pelo amor aos animes e as músicas que marcaram a infância e adolescência. Hoje, a Setfly é uma banda de animesongs e j-rock, que transita do peso do metal as rimas envolventes do rap.'
+  thumbnailUrl: SetFly.jpg
   rockstar: true
+  social: 
+    - {name: "facebook", link: "https://www.facebook.com/setflyrock"}
+    - {name: "instagram", link: "https://www.instagram.com/setfly"}
+    - {name: "youtube", link: "https://www.youtube.com/channel/UCeyQoxRly7tWm5xmdvwnCeg"}
 - 
   id: 11
   name: "Jader"
   surname: "Corrêa"
   company: "Santa Maria"
-  title: "Escritor"
-  bio: "Valentyn focuses on Polymer and Web Components. In previous roles he’s helped craft design systems for massive enterprise companies, user interfaces for console titles, and even built the occasional enchanted princess game. These days his mission is to fight for a better web and to help developers build great experiences."
-  thumbnailUrl: ValentynShybanov.jpg
+  title: "Artista"
+  bio: 'Formado em Artes pela Ulbra. Jader produziu charges durante 23 anos para o jornal O Correio. Autor das HQs "Natureza Artificial" e "A Liga dos Pampas". Já participou de várias antologias de quadrinhos como "Periferia Cyberpunk" (Editora Draco), "Subversos", "Tempestade Cerebral" e outras. Participou da produção da história em quadrinhos americana "Smallville". Atualmente produz charges para a revista Planeta Arroz e produz sketch cards para o mercado americano de franquias como The Walking Dead, Game of Thrones, DC e Marvel.'
+  thumbnailUrl: JaderCorrea.jpg
   rockstar: true
+  social:
+    - {name: "instagram", link: "https://www.instagram.com/jaderdcorrea"}
 - 
   id: 12
   name: "Gabriel"
   surname: "Kolbe"
   company: "Santa Maria"
   title: "Escritor"
-  bio: "Valentyn focuses on Polymer and Web Components. In previous roles he’s helped craft design systems for massive enterprise companies, user interfaces for console titles, and even built the occasional enchanted princess game. These days his mission is to fight for a better web and to help developers build great experiences."
-  thumbnailUrl: ValentynShybanov.jpg
+  bio: 'Gabriel é ilustrador, quadrinista e membro no Dínamo Estúdio, em Porto Alegre. Criador da webcomics "GATHO" e do blog de tirinhas "Sintonia Alcalina", também esteve envolvido na criação de livros infantis e projetos para diversas empresas na área do design gráfico. Em Novembro de 2018 lançará ao lado de Matias Streb e Jader Domingues Corrêa a HQ "Febre".'
+  thumbnailUrl: GrabielKolbe.jpg
   rockstar: true
+  social:
+    - {name: "instagram", link: "https://www.instagram.com/gabrielkolbe"}
+    - {name: "site", link: "https://www.deviantart.com/gabkt"}
 - 
   id: 13
   name: "Nadyne"
   surname: "Dias"
   company: "Santa Maria"
   title: "Digital Influencer"
-  bio: "Valentyn focuses on Polymer and Web Components. In previous roles he’s helped craft design systems for massive enterprise companies, user interfaces for console titles, and even built the occasional enchanted princess game. These days his mission is to fight for a better web and to help developers build great experiences."
-  thumbnailUrl: ValentynShybanov.jpg
+  bio: 'Nadyne Dias, do blog Belle Diva, é uma digital influencer de Santa Maria que está por dentro da área geek. Sempre ativa no Youtube, Instagram e Facebook, é fã de Batgirl e Garota Esquilo. Já cobriu eventos geeks e agora estará presente no Multiverso Geek para a cobertura oficial do evento e também para ministrar os painéis dos artistas.'
+  thumbnailUrl: NadyneDias.jpg
   rockstar: true
+  social:
+    - {name: "instagram", link: "https://www.instagram.com/belledivablog"}
+    - {name: "facebook", link: "https://www.facebook.com/sitebellediva"}
+    - {name: "twitter", link: "https://twitter.com/belledivablog"}
+    - {name: "site", link: "https://bellediva.com.br/"}
+- 
+  id: 14
+  name: ""
+  surname: "Braziliano"
+  company: "Santa Maria"
+  title: "Artista"
+  bio: 'Braziliano, natural de Santa Maria, é grafiteiro, ilustrador e quadrinhista. Depois de 15 anos dedicado ao grafite leva a fluidez dos traços dos muros para o papel, adentra em 2016 no universo de quadrinhos independentes lançando junto com o coletivo MAZE a HQ "Ciclo", em 2017 participou da coletânea "Space Opera", desenhando a história "A Queda",e também na coletânea "Periferia Cyberpunk" em 2018 desenhando "Iansã Ferida", ambas lançadas pela editora Draco.'
+  thumbnailUrl: Braziliano.jpg
+  rockstar: true
+  social:
+    - {name: "instagram", link: "https://www.instagram.com/brazilianobraza"}
+    - {name: "site", link: "https://www.flickr.com/photos/brazilianotv"}
+- 
+  id: 15
+  name: "Clayton"
+  surname: "Cardoso"
+  company: "Santa Maria"
+  title: "Artista"
+  bio: "Clayton Cardoso, natural de Santo Ângelo, desde a sua infância um aficionado pela nona arte, em especial Tarzan. Em 2016 lança seu primeiro trabalho independente, \"Sepé Tiaraju a Saga de um Herói\". Em 2017 lança \"M'boiguaçu, a Lenda da Cobra Grande\". Atualmente está concluindo a HQ \"M'bororé, a Batalha\". Estes são trabalhos de cunho didático, com revisão e transcrição de historiadores (Mário Simon e José Roberto de Oliveira), com roteiro e arte de sua autoria."
+  thumbnailUrl: ClaytonCardoso.jpg
+  rockstar: true
+  social:
+    - {name: "facebook", link: "http://facebook.com/claytonlcardoso"}
+- 
+  id: 16
+  name: "Marcos"
+  surname: "Silveira"
+  company: "Santa Maria"
+  title: "Artista"
+  bio: "Marcos Lima Silveira é formado em Desenho Industrial, trabalha como professor de desenho e é apaixonado por design de personagens."
+  thumbnailUrl: MarcosSilveira.jpg
+  rockstar: true
+  social:
+    - {name: "instagram", link: "https://www.instagram.com/markur0"}
+    - {name: "facebook", link: "https://www.facebook.com/marcosaulasdesenho"}
+- 
+  id: 17
+  name: "Marcos"
+  surname: "Leite"
+  company: "Santa Maria"
+  title: "Escritor"
+  bio: "Marcos Vinicius da Silva Leite é o autor do livro \"Crônicas Perdidas - O Despertar dos Errantes\" (Editora Viseu). Este romance de fantasia traz uma aventura clássica de um grupo de aventureiros, que poderia muito bem ter sido retirada de uma mesa de RPG."
+  thumbnailUrl: MarcosLeite.jpg
+  rockstar: true
+- 
+  id: 18
+  name: "Teresa"
+  surname: "Kurek"
+  company: "Santa Maria"
+  title: "Artista"
+  bio: "Teresa Kurek é ilustradora e atua como profissional autônoma com commissions e ilustração para livros, banners, cartões e demais materiais gráficos. O estilo de suas ilustrações é influenciado pelo mangá e cartoon, também possuem um visual fofo, devido ao interesse da artista por ilustração de livros infantis. Possui dois livros ilustrados publicados, em parceria com autores locais (de Santa Maria)."
+  thumbnailUrl: TeresaKurek.jpg
+  rockstar: true
+  social:
+    - {name: "facebook", link: "https://www.instagram.com/rabiscaliao"}
+    - {name: "site", link: "https://teresakurek.artstation.com/"}
+- 
+  id: 19
+  name: ""
+  surname: "Pa-Kua"
+  company: "Santa Maria"
+  title: "Artes Marciais"
+  #bio: '<p>A Pa-Kua leva ao público o conhecimento milenar da cultura chinesa e oferece diversas modalidades para desenvolver o autoconhecimento e a evolução pessoal. Nosso recinto conta com aulas de Armas de Corte, Defesa Pessoal, Yoga Chinesa, Arqueria, Tai Chi e Acrobacia.</p><p>Liga Internacional de Pa-Kua está localizada na Rua Marechal Floriano Peixoto 904, Segundo Andar, Sala 4. Para contato segue o número: (55) 3095.0135</p>'
+  thumbnailUrl: PaKua.jpg
+  rockstar: false

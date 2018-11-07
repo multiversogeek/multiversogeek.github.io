@@ -1,0 +1,1 @@
+./all_image_optimization.bat -d -jtran -pout -optip -gsicle

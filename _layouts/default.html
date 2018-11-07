@@ -30,13 +30,14 @@ layout: compress
     	{% include speakers-modals.html %} 
     {% endif %} 
 
-    {% if page.permalink == '/schedule/' %}
+    {% if page.permalink == '/atracoes/' %}
         {% include sessions-modals.html %} 
     {% endif %} 
     
     {% comment %}
     {% include analytics.html %}
     {% endcomment %}
+    {% include photoswipe.html %}
     
     <script src="//ajax.googleapis.com/ajax/libs/jquery/2.1.1/jquery.min.js"></script>
     <script>
@@ -135,7 +136,7 @@ layout: compress
         {% endif %} 
     </script>
     <script src="{{ "/js/scripts.min.js" | prepend: site.baseurl }}"></script>
-    {% if page.permalink == '/schedule/' %}
+    {% if page.permalink == '/programacao/' %}
         <script type="text/javascript">
             $(document).ready(function () {
                 var navHeight = $('#top-header').height();
