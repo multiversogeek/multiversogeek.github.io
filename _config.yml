@@ -11,10 +11,10 @@ exclude: ['/automation/', 'README.md', 'LICENSE.txt', 'CNAME']
 
 # Site Settings
 title: "Multiverso Geek 1ª Edição"
-email: "multiversogerksm@gmail.com"
+email: "multiversogeeksm@gmail.com"
 description: "O Multiverso Geek está na sua 1ª Edição em Santa Maria"
 baseurl: "/zeppelin"
-url: "https://gdg-x.github.io"
+url: "https://www.facebook.com/multiversogeeksm/"
 permalink: "/blog/:title"
 googleAnalyticsTrackingId: "UA-43643469-5"
 googleAnalyticsSiteUrl: "gdg-x.github.io"
@@ -24,7 +24,7 @@ siteVerification: "b9imDOrFawXaBXCC4r3uJDdswSYcalD-wWpMYhFq-no"
 organizerName: "Multiverso Geek"
 organizerAlternateName: "Multiverso Geek"
 organizerDescription: "Evento geek de Santa Maria."
-organizerEmail: "multiversogerksm@gmail.com"
+organizerEmail: "multiversogeeksm@gmail.com"
 organizerLogo: "/img/seo/multiverso.png"
 organizerLink: "https://www.facebook.com/multiversogeeksm/"
 
