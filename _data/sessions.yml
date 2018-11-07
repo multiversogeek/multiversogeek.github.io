@@ -17,7 +17,7 @@
   speakers: [19]
 -
   id: 604
-  title: "Pa-Kua"
+  title: "Pa-Kua - Oficina"
   description: "Oficina"
   subtype: workshop
   speakers: [19]
@@ -45,7 +45,7 @@
 -
   id: 001
   title: "Painel com artistas e Lançamento da HQ \"Le Chevalier: Nas Montanhas das Loucuras\""
-  description: "This session will reveal the invisible structures behind the material design system. Designers will show how to use the new color systems, typographic strategies, and the underlying grids that hold it together. They will show how imagery and the new framework material rendering can make apps more interesting and communicate more quickly."
+  description: "Painel com artistas"
   subtype: presentation
   speakers: [5, 6, 7, 13]
   # language: en
@@ -54,7 +54,7 @@
 -
   id: 002
   title: "Painel com artistas e Lançamento da HQ \"Febre\""
-  description: "This session will reveal the invisible structures behind the material design system. Designers will show how to use the new color systems, typographic strategies, and the underlying grids that hold it together. They will show how imagery and the new framework material rendering can make apps more interesting and communicate more quickly."
+  description: "Painel com artistas"
   subtype: presentation
   speakers: [11, 12, 13]
   # language: en
@@ -63,37 +63,37 @@
 -
   id: 003
   title: "Level-Up (Apresentação de dança)"
-  description: "This session will reveal the invisible structures behind the material design system. Designers will show how to use the new color systems, typographic strategies, and the underlying grids that hold it together. They will show how imagery and the new framework material rendering can make apps more interesting and communicate more quickly."
+  description: "Apresentação de dança do grupo Level-Up"
   subtype: presentation
   speakers: [8]
 -
   id: 004
   title: "Show da banda Triturador (Rock)"
-  description: "This session will reveal the invisible structures behind the material design system. Designers will show how to use the new color systems, typographic strategies, and the underlying grids that hold it together. They will show how imagery and the new framework material rendering can make apps more interesting and communicate more quickly."
+  description: "Show de Rock da Banda Triturador."
   subtype: presentation
   speakers: [9]
 -
   id: 005
   title: "Painel com Matias Streb"
-  description: "This session will reveal the invisible structures behind the material design system. Designers will show how to use the new color systems, typographic strategies, and the underlying grids that hold it together. They will show how imagery and the new framework material rendering can make apps more interesting and communicate more quickly."
+  description: "Painel com artista."
   subtype: presentation
   speakers: [4, 13]
 -
   id: 006
-  title: "Show da banda Setfly (J-Rock e Animesongs)"
-  description: "This session will reveal the invisible structures behind the material design system. Designers will show how to use the new color systems, typographic strategies, and the underlying grids that hold it together. They will show how imagery and the new framework material rendering can make apps more interesting and communicate more quickly."
+  title: "Show da banda SetFly (J-Rock e Animesongs)"
+  description: "Show de J-Rock e Animesongs com a banda SetFly"
   subtype: presentation
   speakers: [10]
 -
   id: 007
   title: "Painel com Gustavo Borges e lançamento da HQ \"Cebolinha: Recuperação\""
-  description: "This session will reveal the invisible structures behind the material design system. Designers will show how to use the new color systems, typographic strategies, and the underlying grids that hold it together. They will show how imagery and the new framework material rendering can make apps more interesting and communicate more quickly."
+  description: "Painel com artista."
   subtype: presentation
   speakers: [3, 13]
 -
   id: 008
   title: "Concurso de Cosplay"
-  description: "This session will reveal the invisible structures behind the material design system. Designers will show how to use the new color systems, typographic strategies, and the underlying grids that hold it together. They will show how imagery and the new framework material rendering can make apps more interesting and communicate more quickly."
+  description: "Concurso de Cosplay. O registro dos cosplayers concorrentes ocorrerá durante o evento, pergunte para a staff!"
   subtype: workshop
 # 18:00 - Painel com Jader Corrêa e Gabriel Kolbe (Lançamento da HQ "Febre")
 # 19:00 - Arena Vitra
