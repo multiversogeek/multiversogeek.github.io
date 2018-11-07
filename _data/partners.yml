@@ -1,23 +1,25 @@
 - 
-  group: "General sponsor"
+  group: "Patrocinadores"
   elements: 
-    - {name: "Google", description: "Google", link: "https://www.google.com.ua/intl/en/about/", imageUrl: "google.svg"}
-    - {name: "GDG Lviv", description: "GDG Lviv - Open and volunteer geek community", link: "http://lviv.gdg.org.ua", imageUrl: "gdg-lviv.svg"}
+    - {name: "Hotéis Dom Rafael", description: "Hotéis Dom Rafael", link: "https://www.facebook.com/ArteRockSM/", imageUrl: "dom-rafael.jpg"}
 - 
-  group: "With support of"
+  group: "Com apoio de"
   elements: 
-    - {name: "Google", description: "Google", link: "https://www.google.com.ua/intl/en/about/", imageUrl: "google.svg", width: "120px"}
-    - {name: "GDG Lviv", description: "GDG Lviv - Open and volunteer geek community", link: "http://lviv.gdg.org.ua", imageUrl: "gdg-lviv.svg", width: "120px"}
-    - {name: "GDG[x]", description: "GDG[x] - Yeah, we can fix that", link: "https://github.com/gdg-x", imageUrl: "gdg-x.svg", width: "120px"}
+    - {name: "Domínio Geek", description: "Domínio Geek", link: "http://dominiogeek.store", imageUrl: "dominio-geek.png"}
+    - {name: "TV Santa Maria", description: "TV Santa Maria", link: "https://www.facebook.com/TV-Santa-Maria-847209748653794", imageUrl: "tv-santa-maria.jpg"}
+    - {name: "Bar do Gárgula", description: "Bar do Gárgula", link: "https://www.facebook.com/GargulaBar/", imageUrl: "gargula.jpg"}
+    - {name: "CESMA", description: "CESMA", link: "https://www.cesma.com.br/", imageUrl: "cesma.png"}
 - 
-  group: "Information partners"
+  group: "Estandes"
   elements: 
-    - {name: "Google", description: "Google", link: "https://www.google.com.ua/intl/en/about/", imageUrl: "google.svg"}
-    - {name: "GDG Lviv", description: "GDG Lviv - Open and volunteer geek community", link: "http://lviv.gdg.org.ua", imageUrl: "gdg-lviv.svg"}
-    - {name: "GDG[x]", description: "GDG[x] - Yeah, we can fix that", link: "https://github.com/gdg-x", imageUrl: "gdg-x.svg"}
-    - {name: "Google", description: "Google", link: "https://www.google.com.ua/intl/en/about/", imageUrl: "google.svg"}
-    - {name: "GDG Lviv", description: "GDG Lviv - Open and volunteer geek community", link: "http://lviv.gdg.org.ua", imageUrl: "gdg-lviv.svg"}
-    - {name: "GDG[x]", description: "GDG[x] - Yeah, we can fix that", link: "https://github.com/gdg-x", imageUrl: "gdg-x.svg"}
-    - {name: "Google", description: "Google", link: "https://www.google.com.ua/intl/en/about/", imageUrl: "google.svg"}
-    - {name: "GDG Lviv", description: "GDG Lviv - Open and volunteer geek community", link: "http://lviv.gdg.org.ua", imageUrl: "gdg-lviv.svg"}
-    - {name: "GDG[x]", description: "GDG[x] - Yeah, we can fix that", link: "https://github.com/gdg-x", imageUrl: "gdg-x.svg"}
+    - {name: "Arte Rock Estampas", description: "Arte Rock Estampas", link: "https://www.facebook.com/ArteRockSM/", imageUrl: "arte-rock.jpg"}
+    - {name: "Asian Pop Store", description: "Asian Pop Store", link: "https://www.asianpopstore.com.br/", imageUrl: "asian-pop.jpg"}
+    - {name: "Cyber Mamute", description: "Cyber Mamute", link: "http://cybermamute.com.br/", imageUrl: "cyber-mamute.jpg"}
+    - {name: "Empório Urbano", description: "Empório Urbano", link: "https://www.facebook.com/emporiourbano1335/", imageUrl: "emporio-urbano.jpg"}
+    - {name: "Lends Club", description: "Lends Club", link: "http://lends.com.br", imageUrl: "lends.png"}
+    - {name: "Nômade Books", description: "Nômade Books", link: "https://www.instagram.com/nomade_bookshop/", imageUrl: "nomade.jpg"}
+    - {name: "Sebo Camobi", description: "Sebo Camobi", link: "https://sebocamobi.com.br", imageUrl: "sebo-camobi.png"}
+    - {name: "Terra X Comics", description: "Terra X Comics", link: "https://www.facebook.com/terraxcomics/", imageUrl: "terra-x.png"}
+    - {name: "The Lord Rock", description: "The Lord Rock", link: "https://thelordrock.com.br/", imageUrl: "the-lord-rock.png"}
+    - {name: "Venusto Molduras", description: "Venusto Molduras", link: "https://www.facebook.com/venusto.molduras.3", imageUrl: "venusto.png"}
+    - {name: "Vitra", description: "Vitra", link: "https://www.facebook.com/vistasedeloucura/", imageUrl: "vitra.png"}

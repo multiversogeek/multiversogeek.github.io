@@ -11,8 +11,8 @@ exclude: ['/automation/', 'README.md', 'LICENSE.txt', 'CNAME']
 
 # Site Settings
 title: "Multiverso Geek 1ª Edição"
-email: "devfest@gdg.org.ua"
-description: "GDG DevFest is a set of events all around the world"
+email: "multiversogerksm@gmail.com"
+description: "O Multiverso Geek está na sua 1ª Edição em Santa Maria"
 baseurl: "/zeppelin"
 url: "https://gdg-x.github.io"
 permalink: "/blog/:title"
@@ -21,19 +21,19 @@ googleAnalyticsSiteUrl: "gdg-x.github.io"
 siteVerification: "b9imDOrFawXaBXCC4r3uJDdswSYcalD-wWpMYhFq-no"
 
 # Organizer Info
-organizerName: "GDG Lviv"
-organizerAlternateName: "Google Developer Group Lviv"
-organizerDescription: "Open and volunteer geek communities who create exciting projects and share experience about Google technology with passion."
-organizerEmail: "lviv@gdg.org.ua"
-organizerLogo: "/img/seo/organizer-logo.png"
-organizerLink: "http://lviv.gdg.org.ua/"
+organizerName: "Multiverso Geek"
+organizerAlternateName: "Multiverso Geek"
+organizerDescription: "Evento geek de Santa Maria."
+organizerEmail: "multiversogerksm@gmail.com"
+organizerLogo: "/img/seo/multiverso.png"
+organizerLink: "https://www.facebook.com/multiversogeeksm/"
 
 # Head
-metaKeywords: "event, gdg, devfest, google, programming, android, chrome, developers, lviv"
+metaKeywords: "evento, geek, santa maria, multiverso geek"
 twitterAccount: "@DevFest"
-socialImageSrcGooglePlus: "/img/seo/sharing-google-plus.png"
-socialImageSrcTwitter: "/img/seo/sharing-twitter.png"
-socialImageSrcFacebook: "/img/seo/sharing-facebook.png"
+socialImageSrcGooglePlus: "/img/seo/multiverso.png"
+socialImageSrcTwitter: "/img/seo/multiverso.png"
+socialImageSrcFacebook: "/img/seo/multiverso.png"
 
 # Documents
 c4pUrl: "https://bit.ly/dfua-c4p"
@@ -43,11 +43,11 @@ c4sponsorsUrl: "/assets/GDG_DevFest_Partnership.pdf"
 # Navigation
 navigationLinks:
  - {permalink: "/", text: "Página inicial"}
- - {permalink: "/blog/", text: "Notícias"}
- - {permalink: "/schedule/", text: "Programação"}
- - {permalink: "/speakers/", text: "Atrações"}
- - {permalink: "/team/", text: "Equipe"}
- - {permalink: "/logistics/", text: "Hospedagem"}
+#  - {permalink: "/blog/", text: "Notícias"}
+ - {permalink: "/programacao/", text: "Programação"}
+ - {permalink: "/atracoes/", text: "Atrações"}
+#  - {permalink: "/team/", text: "Equipe"}
+#  - {permalink: "/logistics/", text: "Hospedagem"}
 #  - {permalink: "/hackathon/", text: "Hackathon"}
 bottomNavigationLinks:
 #  - {link: "https://bit.ly/dfua-c4p", text: "Comprar ingressos"}
@@ -57,7 +57,7 @@ rightNavigationButtons:
   - {permalink: "/#tickets", text: "Comprar ingressos"}
 
 # Hero Block
-heroImage: "hero.jpg"
+heroImage: "fundo-azul.jpg"
 heroTitle: "Multiverso <typeout> 1ª Edição"
 eventDate: "10 e 11 de Novembro de 2018"
 typeoutTextValues: '"Geek", "", "Nerd", "Séries", "Anime", "Santa Maria"'
@@ -200,28 +200,28 @@ ticketsOffers:
 
 # Footer
 socialLinks:
- - {link: "https://plus.google.com/b/102444623953913144164", icon: "google-plus"}
- - {link: "https://twitter.com/intent/user?screen_name=GDGLviv", icon: "twitter"}
- - {link: "https://facebook.com/GDGLviv", icon: "facebook"}
- - {permalink: "/feed.xml", icon: "rss"}
-footerBlocks:
- -
-  title: "Links"
-  links:
-   - {link: "http://gdg.org.ua", text: "GDG.org.ua"}
-   - {link: "https://developers.google.com", text: "Google Developers"}
- -
-  title: "Contacts"
-  links:
-   - {link: "mailto:lviv@gdg.org.ua", text: "lviv@gdg.org.ua"}
- -
-  title: "FAQ"
-  links:
-   - {permalink: "/cod/", text: "Code of Conduct"}
+#  - {link: "https://plus.google.com/b/102444623953913144164", icon: "google-plus"}
+#  - {link: "https://twitter.com/intent/user?screen_name=GDGLviv", icon: "twitter"}
+ - {link: "https://www.facebook.com/multiversogeeksm", icon: "facebook"}
+#  - {permalink: "/feed.xml", icon: "rss"}
+# footerBlocks:
+#  -
+#   title: "Links"
+#   links:
+#    - {link: "http://gdg.org.ua", text: "GDG.org.ua"}
+#    - {link: "https://developers.google.com", text: "Google Developers"}
+#  -
+#   title: "Contacts"
+#   links:
+#    - {link: "mailto:lviv@gdg.org.ua", text: "lviv@gdg.org.ua"}
+#  -
+#   title: "FAQ"
+#   links:
+#    - {permalink: "/cod/", text: "Code of Conduct"}
 
 # Blog
-blogTitle: "Latest news"
-blogCommentsEnabled: true
+blogTitle: "Últimas notícias"
+blogCommentsEnabled: false
 discusShortName: "devfestua"
 
 # Speakers List Block
