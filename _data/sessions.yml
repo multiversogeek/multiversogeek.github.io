@@ -43,6 +43,13 @@
   subtype: workshop
   service: true
 -
+  id: 608
+  title: "Abertura"
+  place: "Auditório"
+  description: ""
+  subtype: workshop
+  service: true
+-
   id: 001
   title: "Painel com artistas e Lançamento da HQ \"Le Chevalier: Nas Montanhas das Loucuras\""
   description: "Painel com artistas"
@@ -93,7 +100,7 @@
 -
   id: 008
   title: "Concurso de Cosplay"
-  description: "Concurso de Cosplay. O registro dos cosplayers concorrentes ocorrerá durante o evento, pergunte para a staff!"
+  description: '<p>Concurso de Cosplay. O registro dos cosplayers concorrentes ocorrerá durante o evento, pergunte para a staff!</p><p>Premiação:<br/>1° lugar: R$50,00 em produtos dos estandes do evento<br/>2° lugar: R$30,00 em produtos dos estandes do evento<br/>3° lugar: R$20,00 em produtos dos estandes do evento</p>'
   subtype: workshop
 # 18:00 - Painel com Jader Corrêa e Gabriel Kolbe (Lançamento da HQ "Febre")
 # 19:00 - Arena Vitra

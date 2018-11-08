@@ -6,6 +6,7 @@
     # - {title: "Web & Cloud", color: "#03a9f4"}
     # - {title: "Community", color: "#e91e63"}
   timeslots:
+    - { startTime: "14:00", sessionIds: [608] }
     - { startTime: "15:00", endTime: "16:00", sessionIds: [603] }
     - { startTime: "16:00", endTime: "17:00", sessionIds: [001] }
     - { startTime: "17:00", endTime: "18:00", sessionIds: [604] }
@@ -21,6 +22,7 @@
     - {title: "Auditório", color: "#90be4e"}
     # - {title: "Web & Cloud", color: "#03a9f4"}
   timeslots: 
+    - { startTime: "14:00", sessionIds: [608] }
     - { startTime: "15:00", endTime: "16:00", sessionIds: [603] }
     - { startTime: "16:00", endTime: "17:00", sessionIds: [005] }
     - { startTime: "17:00", endTime: "18:00", sessionIds: [006] }
